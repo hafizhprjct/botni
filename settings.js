@@ -38,10 +38,20 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 global.submenudonate =`
-DONATE MMK SEREBU
-DANA :
-GOPAY:
-DLL
+┌─「 Donasi • Pulsa 」
+│ • Indosat: [085651307830]
+│ • Telkomsel: [081354060278]
+❏────
+
+┌─「 Donasi • Non Pulsa 」
+│ • Dana : [085651307830]
+│ • OVO : [085651307830]
+│ • GoPay : [085651307830]
+│ • ShopeePay : [085651307830]
+│ • LinkAja : [085651307830]
+│ • Saweria : [saweria.com/HafizhFlash]
+│ • Trakteer : [https://trakteer.id/HafizhFlash22]
+│ • QRIS : [https://telegra.ph/Donasi-Melalui-QRIS-01-22]
 `
 
 global.biogas = 'BOT BY LENTTOBS IS RUNNING'
@@ -66,54 +76,65 @@ free 100+ feature
 //==============================\
 global.sapi = 'WA MD'
 //===============================\\
-global.wms = '6285791762177' //wm help Pake nomor yng mau pp nya di jadiin Wm
+global.wms = '6285651307830' //wm help Pake nomor yng mau pp nya di jadiin Wm
 autoread = true //jangan di ubah
-global.footer = 'Lenttobd'//ganti
-global.pulsa = "628xxxxx"//ganti
-global.gopay = "628xxx"//ganti
-global.dana = "628xxx"//ganti
+global.footer = 'HaFlazh-BOT'//ganti
+global.pulsa = "6285651307830"//ganti
+global.gopay = "6285651307830"//ganti
+global.dana = "6285651307830"//ganti
 global.paypal = "---" // biarin aja kalau gaada
-global.shopay = "---" // biarin aja kalau gaada
-global.saweria = "---" // biarin aja kalau gaada
+global.shopay = "6285651307830" // biarin aja kalau gaada
+global.saweria = "saweria.com/HafizhFlash" // biarin aja kalau gaada
 global.sociabus = "---" // biarin aja kalau gaada
-global.bni = "---" // biarin aja kalau gaada
-global.bri = "---" // biarin aja kalau gaada
+global.bni = "chat owner aja" // biarin aja kalau gaada
+global.bri = "chat owner aja" // biarin aja kalau gaada
 global.bankjatim = "---" // biarin aja kalau gaada
 global.jago = "---" // biarin aja kalau gaada
-global.neobank = "---" // biarin aja kalau gaada
-global.packname = 'LENTTOBS WA MD'//nama wm
-global.footer = '©Maslent'//ganti
-global.ovo = "628xxx"//ganti
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['6266666'] //ubh nomor owner hp
-global.ownername = "WA MD" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "62666"//ubah nomorhp owner
-global.premium = ['6262626262']//ubah nomor hp premium
-global.nomorcs = '626262626'//nomormu
-global.botname = 'Bot V24' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.neobank = "chat owner aja" // biarin aja kalau gaada
+global.packname = 'HaFlazh-BOT WA MD'//nama wm
+global.footer = '©Hafizh'//ganti
+global.ovo = "6285651307830"//ganti
+global.ownerlen = "Hafizh/HaFlazh-BOT"//Ubah
+global.owner = ['6285651307830'] //ubh nomor owner hp
+global.ownername = "Hafizh" //ubah
+global.ytname = "YT: Hafizh Flash"//ubah
+global.socialm = "IG: hfizh22"//ubah
+global.location = "Indonesia, KalimantanTimur, Bontang"//ubah
+global.ownernomer = "6285651307830"//ubah nomorhp owner
+global.premium = ['6285651307830']//ubah nomor hp premium
+global.nomorcs = '6285651307830'//nomormu
+global.botname = 'HaFlazh-BOT' //ubah
+global.linkz = "https://chat.whatsapp.com/JQTVwyYnQNW0ljAncX2Kpf"//ubah
+global.websitex = "https://github.com/hafizhprjct"//ubah
 global.botscript = '-'
 global.themeemoji = "😿"//ubah
 global.packname = "Sticker By"//ubah
-global.author = "Made by Lenttobs"//ubah
+global.author = "Made by HaFlazh-BOT"//ubah
 global.buyprem = `
 LIST HARGA PREMIUM
-• ---
-• ---
-• TMBHN SNDRI CAPEK
+• 5K / 7hari
+• 10K / 14hari
+• 20K / 1 bulan
+• 35K / Permanen
 
 ~~~~~~~~~~~~~~~~
 PAYMENT
-DANA :
-GOPE :
-OVO :
-DLL ISI SNDRI :
+┌─「 Donasi • Pulsa 」
+│ • Indosat: [085651307830]
+│ • Telkomsel: [081354060278]
+❏────
 
-By Lenttobs
+┌─「 Donasi • Non Pulsa 」
+│ • Dana : [085651307830]
+│ • OVO : [085651307830]
+│ • GoPay : [085651307830]
+│ • ShopeePay : [085651307830]
+│ • LinkAja : [085651307830]
+│ • Saweria : [saweria.com/HafizhFlash]
+│ • Trakteer : [https://trakteer.id/HafizhFlash22]
+│ • QRIS : [https://telegra.ph/Donasi-Melalui-QRIS-01-22]
+
+By HaFlazh-BOT 2
 ` // <~~ jan di apus ( ` )
 
 
@@ -1232,7 +1253,7 @@ global.err4r = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.limitawal = { //limit ges
     premium: "UNLIMITED",
-    free: 50// atur limitinya sesuka hati
+    free: 15// atur limitinya sesuka hati
 }
 
 let file = require.resolve(__filename)
